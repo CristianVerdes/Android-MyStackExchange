@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Stack Exchange</string>
+    <string name="something">Something</string>
+    <string name="title">TITLE</string>
+    <string name="user">USER</string>
+    <string name="rate">RATE</string>
+    <string name="search_here">Search here</string>
+    <string name="search">Search</string>
+</resources>
